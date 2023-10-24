@@ -1,0 +1,45 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:500px;
+    height: 400px;
+    box-shadow:10px 10px 10px #1400FF;
+
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+    background:#75EFFD;
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+img{
+    border-radius: 4px;
+    padding: 10px;
+}
+.column{
+    display: inline;
+    padding: 10px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    color: #FF0000;
+    background-color:#00C605 ;
+}
